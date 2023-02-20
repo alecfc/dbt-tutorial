@@ -8,6 +8,7 @@
   - Hoe werkt testing met DBT?
   - Vergelijk snelheden en tijden met DBT tussen verschillende cloud platformen
   - Vergelijk snelheden tussen DBT en handmatige queries
+  - Voorbeeld maken hoe DBT can generate DAG's
 
 # Alec:
   - Opzetten in Databricks
